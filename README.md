@@ -5,7 +5,7 @@
 </p
 
 QB64 is a modern extended BASIC+OpenGL language that retains QB4.5/QBasic compatibility and compiles native binaries for Windows (XP and up), Linux and macOS.
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/QB64Team/qb64/issues). Main website: https://www.qb64.org/portal/
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/QB64Team/qb64/issues). Main website: https://www.qb64.org/
 
 # Table of Contents
 1. [Installation](#Installation)
